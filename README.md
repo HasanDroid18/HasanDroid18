@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a self-motivated computer science student, I have a strong passion for Native Android development. My dedication to mastering these skills has driven me to pursue various self-learning opportunities and explore new technologies. With a commitment to lifelong learning and a desire to innovate, I am excited to bring my expertise to the world of technology.
+As a self-motivated computer science graduate, I have a strong passion for Native Android development. My dedication to mastering these skills has driven me to pursue various self-learning opportunities and explore new technologies. With a commitment to lifelong learning and a desire to innovate, I am excited to bring my expertise to the world of technology.
 
 
 ## 🌐 Socials:
