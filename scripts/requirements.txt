@@ -1,0 +1,6 @@
+# daily workflow (fetch + render heatmap)
+requests==2.32.3
+beautifulsoup4==4.12.3
+# local-only: banner generation from assets/logo.png
+pillow
+numpy
