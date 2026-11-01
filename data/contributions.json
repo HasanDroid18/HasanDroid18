@@ -1,52 +1,17 @@
 {
  "username": "HasanDroid18",
- "fetched_at": "2026-10-31T12:42:58+00:00",
+ "fetched_at": "2026-11-01T13:33:41+00:00",
  "placeholder": false,
  "stats": {
-  "total": 685,
+  "total": 692,
   "best_day": {
    "date": "2026-10-09",
    "count": 36
   },
-  "longest_streak": 105,
-  "current_streak": 105
+  "longest_streak": 107,
+  "current_streak": 107
  },
  "days": [
-  {
-   "date": "2025-10-26",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-27",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-28",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-29",
-   "level": 1,
-   "count": 3
-  },
-  {
-   "date": "2025-10-30",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-31",
-   "level": 1,
-   "count": 1
-  },
-  {
-   "date": "2025-11-01",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-11-02",
    "level": 0,
@@ -1864,8 +1829,13 @@
   },
   {
    "date": "2026-10-31",
-   "level": 0,
-   "count": 0
+   "level": 1,
+   "count": 3
+  },
+  {
+   "date": "2026-11-01",
+   "level": 1,
+   "count": 8
   }
  ]
 }
